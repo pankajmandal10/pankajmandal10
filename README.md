@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Pankaj</h1>
-<h3 align="center">I am Android App and Full Stack Web Developer. </h3>
+<h3 align="center">Mobile App and Full Stack Web Developer. </h3>
 
 
 - 👨‍💻 All of my projects are available at [https://pankajmandal/portfoliopankaj/](https://pankajmandal10.github.io/portfoliopankaj/)
